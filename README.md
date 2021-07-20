@@ -9,6 +9,7 @@ For access of Camera and Microphone webrtc api is used.
 To Run the Project 
 
 pip install -r requirements.txt 
+
 python main.py
 
 
