@@ -10,7 +10,7 @@ To Run the Project
 
 pip install -r requirements.txt 
 
-python main.py
+python app.py
 
 
 Output:
